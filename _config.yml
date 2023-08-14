@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "from ABCs to APIs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "유치원에서 코딩하는 개발자 지망생"
+name                     : "Gi Yeon"
 description              : "An amazing website."
 url                      : "https://noeyigg.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
